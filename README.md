@@ -1,0 +1,1 @@
+Extra function was added with a button at "Weekly Planer" the user is allowed to add a product with the specified required items including the url of the image, unfortunatly as response and request wasn't really asked or learned yet this feature wasn't added for proofchecking, however feel free to test around.
